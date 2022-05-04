@@ -1,5 +1,6 @@
 # **Telco-Customer-Churn**
 If you notice this year there is something different when you buy an item at the supermarket or at the mall! Yes, Value Added Tax or PPN (or on entire world its called VAT) for short has increased to 11% this year. This has had an impact on various sectors. Let's see how the customer behavior in this case is seen from the analysis carried out on the Telco Customer Churn dataset.
+![](https://user-images.githubusercontent.com/61588079/150656205-5a4b0f22-fb60-4171-be48-8ea1d8902e02.jpg)
 
 # **Introduction**
 
